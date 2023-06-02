@@ -90,4 +90,3 @@ public class notebook {
                 this.getHardDisk() >= (int) criteria.get(NoteBook.FilterCriteria.STORAGE);
     }
 }
-}
